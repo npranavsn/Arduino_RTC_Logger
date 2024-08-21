@@ -1,5 +1,4 @@
-# My Projects
-# Project 1 - Arduino RTC logger ( File name : RTC Logger.trial )
+# Project  - Arduino RTC logger 
 ## Components used 
 - RTC MODULE DS3231 
 - ARDUINO NANO
